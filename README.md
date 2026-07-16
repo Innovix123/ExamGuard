@@ -108,9 +108,9 @@ These credentials are **not connected to any production system or online service
 
 Demo Credentials :
 
-ABC Engineering College : abc123
-Head Administrator :
-Username - superadmin
+* ABC Engineering College : abc123
+* Head Administrator :
+Username - superadmin,
 Password - admin123
 
 ---
