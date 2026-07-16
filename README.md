@@ -106,7 +106,7 @@ This prototype contains sample access codes and passwords intended **only for de
 
 These credentials are **not connected to any production system or online service**. If the application is deployed in a real environment, they should be replaced with a secure authentication mechanism.
 
-Demo Credentials
+Demo Credentials :
 
 ABC Engineering College : abc123
 Head Administrator :
