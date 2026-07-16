@@ -10,7 +10,7 @@ The system demonstrates role-based access, examination scheduling, student manag
 
 Explore the ExamGuard prototype here:
 
-**https://sreya1629.github.io/ExamGuard/**
+**https://Innovix123.github.io/ExamGuard/**
 
 > **Note:** This is an academic prototype intended for demonstration purposes only.
 
@@ -105,6 +105,13 @@ Explore the ExamGuard prototype here:
 This prototype contains sample access codes and passwords intended **only for demonstration purposes**.
 
 These credentials are **not connected to any production system or online service**. If the application is deployed in a real environment, they should be replaced with a secure authentication mechanism.
+
+Demo Credentials
+
+ABC Engineering College : abc123
+Head Administrator :
+Username - superadmin
+Password - admin123
 
 ---
 
